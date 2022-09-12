@@ -26,4 +26,10 @@ let streets = L.tileLayer('https://api.mapbox.com/styles/v1/mapbox/satellite-str
 // Then we add our 'graymap' tile layer to the map.
 streets.addTo(map);
 
+<<<<<<< HEAD
 
+=======
+// Skill Drill - Edit your logic.js to create an airline route from SFO to John F. Kennedy International Airport (JFK) with two stops, Austin-Bergstrom International Airport (AUS) and Toronto Pearson International Airport (YYZ). Make the route a blue dashed line, with a weight of 4 and opacity of 0.5 on the light map. 
+// Hint: You'll need to find the coordinates for some of these airports.
+// Bonus: Add your city or another city as a stopping point.
+>>>>>>> 80dbf54099b4494027f2661e5c8003a457ab6e40
